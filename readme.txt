@@ -28,6 +28,9 @@ Description
 A Letter to Elise includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.0.3 - Sept 28, 2017 =
+* Add featured image support
+
 = 1.0.2 - Sept 12, 2017 =
 * Enable recommended widgets
 * Hide default dashboard widgets
