@@ -220,8 +220,8 @@ function a_letter_to_elise_register_required_plugins() {
 			'required'  => false,
 		),
 		array(
-			'name'      => 'All In One SEO Pack',
-			'slug'      => 'all-in-one-seo-pack',
+			'name'      => 'Yoast SEO',
+			'slug'      => 'wordpress-seo',
 			'required'  => false,
 		),
 		array(

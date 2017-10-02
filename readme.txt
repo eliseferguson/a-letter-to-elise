@@ -4,8 +4,8 @@ Contributors: automattic
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: 1.0.2
+Tested up to: 4.8.2
+Stable tag: 1.0.4
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -28,6 +28,10 @@ Description
 A Letter to Elise includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.0.4 - Oct 2, 2017 =
+* Updated recommended plugins
+* Moved repo to GitHub
+
 = 1.0.3 - Sept 28, 2017 =
 * Add featured image support
 
